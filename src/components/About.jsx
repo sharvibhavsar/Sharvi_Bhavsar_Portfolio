@@ -16,9 +16,9 @@ const About = () => {
                     </h2>
                     <div className="bg-light-bg dark:bg-dark-bg p-8 rounded-2xl shadow-xl border border-gray-200 dark:border-gray-800">
                         <p className="text-lg text-light-textMuted dark:text-dark-textMuted leading-relaxed mb-6">
-                           Growing interest in Data Science, Machine Learning, and Data Driven problem 				   solving. Working with python to analyze datasets, uncover patterns, and building intelligent systems turning data to meaningful insights. Creativity finds it's way through technology, designing intutive interfaces for effectiveness.                       </p>
+                           Interested in data, be it Data Science or Machine Learning. Efficient probelm-solving and worked on data driven decision-making. Context with Python to clean, analyze, uncover patterns, and building intelligent systems turning data to meaningful insights. Balancing tech with creativity by designing intutive interfaces for effectiveness. Improving the path of Machine Learning with unsupervised Learning and enlightened with supervised Learning.                      </p>
                         <p className="text-lg text-light-textMuted dark:text-dark-textMuted leading-relaxed">
-                            Super curious about aviation systems and technology. Particularly interested about how Artificial Intelligence can efficiency and avaiation safety in Air Traffic Control                      </p>
+ Super curious about aviation systems and technology and how things work. Particularly interested about how Artificial Intelligence can improve efficiency and avaiation safety in Air Traffic Control along with Machine Learning algorithms.                    </p>
                     </div>
                 </motion.div>
             </div>

@@ -7,7 +7,7 @@ const skills = [
     },
     {
         category: "Data Analysis & EDA",
-        items: ["Data Cleaning", "Exploratory Data Analysis", "Dataset Preparation", "Pattern Identification"]
+        items: ["Data Cleaning", "Exploratory Data Analysis", "Data Wrangling","Dataset Preparation", "Pipelining", "Pattern Identification"]
     },
     {
         category: "Data Visualization",
@@ -19,11 +19,11 @@ const skills = [
     },
     {
         category: "Backend & Databases",
-        items: ["PHP", "MongoDB", "MySQL", "REST APIs"]
+        items: ["PHP", "MongoDB", "MySQL", "Firebase", "Supabase","REST APIs","XAMPP"]
     },
     {
         category: "AI & Prompt Engineering",
-        items: ["Prompt Engineering", "AI-assisted Development", "LLM Workflows", "AI Productivity Tools"]
+        items: ["Prompt Engineering", "GenAI", "AI-assisted Development","NLP", "LLM Workflows", "AI Productivity Tools"]
     }
 ];
 const Skills = () => {
